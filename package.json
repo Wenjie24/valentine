@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wenjie24.github.io/wenjie.github.io/",
+  "homepage": "https://charming-faloodeh-1911d3.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
