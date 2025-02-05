@@ -17,7 +17,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 body {
-  background-position: center;
+    background-position: center;
   background-size: cover;
   background-attachment: fixed;
 }
